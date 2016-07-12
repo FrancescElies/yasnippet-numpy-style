@@ -9,7 +9,8 @@ At first, install [yasnippet](https://github.com/capitaomorte/yasnippet).
 Then:
 ```shell
 $ git clone https://github.com/marubu/yasnippet-numpy-style.git /tmp/python-mode
-$ cp /tmp/python-mode/* ~/.emacs.d/snippets/python-mode/
+$ cp /tmp/python-mode/defwithdoc ~/dotfiles/yas-snippets/python-mode
+$ cp /tmp/python-mode/parameters ~/dotfiles/yas-snippets/python-mode
 ```
 
 #Demo
